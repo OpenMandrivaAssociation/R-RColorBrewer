@@ -40,3 +40,11 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{rlibdir}/%{packname}/Meta
 %{rlibdir}/%{packname}/R
 %{rlibdir}/%{packname}/help
+
+
+%changelog
+* Thu Feb 16 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.0_5-1
++ Revision: 775365
+- Import R-RColorBrewer
+- Import R-RColorBrewer
+
