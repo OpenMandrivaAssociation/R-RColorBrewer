@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.0_5
-Release:          1
+Release:          2
 Summary:          ColorBrewer palettes
 Group:            Sciences/Mathematics
 License:          Apache License 2.0
